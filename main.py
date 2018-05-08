@@ -1,4 +1,8 @@
 print("Hello world!")
 
 
-print("yo")
+def myfunction():
+    return "first function call"
+
+
+print(myfunction())
