@@ -16,5 +16,5 @@ try:
             print("%d is a pair number" % num)
         else:
             print("%d is a multiple of 4" % num)
-except ValueError :
+except ValueError:
     print("Invalid input : Program will terminate")
