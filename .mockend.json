@@ -8,7 +8,7 @@
         "thumbnail":"https://img.youtube.com/vi/I99Qgb4mE5I/hqdefault.jpg",
         "video_url":"https://www.youtube.com/watch?v=I99Qgb4mE5I",
         "duration":500,
-        "status":"available",
+        "status":"available"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "description":"random description",
         "thumbnail":"https://img.youtube.com/vi/hQAHSlTtcmY/hqdefault.jpg",
         "video_url":"https://www.youtube.com/watch?v=hQAHSlTtcmY",
-        "duration":1000,
+        "duration":1000
     },
     {
         "id": 3,
@@ -26,7 +26,7 @@
         "description":"random description",
         "thumbnail":"https://img.youtube.com/vi/jmDfc2ImpUQ/hqdefault.jpg",
         "video_url":"https://www.youtube.com/watch?v=jmDfc2ImpUQ",
-        "duration":250,
+        "duration":250
     },
     {
         "id": 4,
@@ -36,7 +36,7 @@
         "thumbnail":"https://img.youtube.com/vi/I99Qgb4mE5I/hqdefault.jpg",
         "video_url":"https://www.youtube.com/watch?v=I99Qgb4mE5I",
         "duration":500,
-        "status":"available",
+        "status":"available"
     },
     {
         "id": 5,
@@ -45,7 +45,7 @@
         "description":"random description",
         "thumbnail":"https://img.youtube.com/vi/hQAHSlTtcmY/hqdefault.jpg",
         "video_url":"https://www.youtube.com/watch?v=hQAHSlTtcmY",
-        "duration":1000,
+        "duration":1000
     },
     {
         "id": 6,
@@ -54,7 +54,7 @@
         "description":"random description",
         "thumbnail":"https://img.youtube.com/vi/jmDfc2ImpUQ/hqdefault.jpg",
         "video_url":"https://www.youtube.com/watch?v=jmDfc2ImpUQ",
-        "duration":250,
-    },  
+        "duration":250
+    }  
   ]
 }
